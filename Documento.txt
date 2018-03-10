@@ -1,0 +1,3 @@
+este es mi documento de texto para la practica
+
+Creamos un fichero con un repositorio.
