@@ -1,6 +1,3 @@
-este es mi documento de texto para la practica
-
-Creamos un fichero con un repositorio.
-
-vamos a editarlo para que haga coflicto
-y asi no puedsa usarlo
+Este es mi documento de texto para la practica. 
+Creamos un fichero con un repositorio. Vamos a editarlo para que haga 
+conflicto y asi no pueda usarlo. Esto esta mal siempre
